@@ -1,7 +1,7 @@
 # Motiv-Dataset
 Motiv: A Dataset of Latent Space Representations of Musical Phrase Motions
 
-Dataset and Scores stored at 
+Dataset and Scores stored at https://doi.org/10.7910/DVN/RWCG4B
 
 Alternative Links:
 
